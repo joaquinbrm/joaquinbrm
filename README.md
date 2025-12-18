@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./banner.png" alt="Data Science Banner" width="100%" style="border-radius: 10px;" />
-  </div>
-
 <br />
 
 # <div align="center">Hola, soy Joaquín Bermúdez Aletti 👋</div>
