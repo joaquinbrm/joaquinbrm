@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/banner.png" alt="Data Science Banner" width="100%" style="border-radius: 10px;" />
+  <img src="./banner.png" alt="Data Science Banner" width="100%" style="border-radius: 10px;" />
   </div>
 
 <br />
