@@ -8,11 +8,11 @@
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## Sobre mí
 
 Estoy cursando la **Licenciatura en Ciencia de Datos** en la Facultad de Ciencias Exactas y Naturales de la **Universidad de Buenos Aires (UBA)**.
 
-Cuento con un background en **Comunicación Social** (Bachiller) que complemento con habilidades técnicas sólidas en **Matemática, Estadística y Programación**, sumado a una extensa labor docente que me ha enseñado a comunicar ideas difíciles de forma simple.
+Complemento mis habilidades técnicas sólidas en **Matemática, Estadística y Programación** con mi formación de Bachiller en **Comunicación Social** sumado a una **extensa labor docente** que me ha enseñado a comunicar ideas difíciles de forma simple.
 
 > *"Me apasionan los datos porque esconden verdades que siempre estuvieron ahí, solo hace falta la herramienta correcta para descubrirlas."*
 
